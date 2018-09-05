@@ -1,0 +1,40 @@
+
+body {
+    padding-top: 90px;
+    padding-bottom: 100px;
+
+}
+
+
+
+.row {
+    padding-bottom: 70px;
+
+}
+
+
+.card {
+	height: 400px;
+}
+
+
+.custom-file-label {
+    text-align: center;
+}
+
+.drop-zone {
+    height: 200px;
+    border-style: inset;
+    border-color: darkgray;
+    text-align: center;
+    line-height: 200px;
+}
+.drop-zone.drag-over {
+	border-color: blue;
+    color: blue;
+}
+
+
+.progress {
+	background-color: blue; 
+}
